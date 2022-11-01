@@ -55,7 +55,7 @@ const MensajesFlask = (data) => {
  * @param {*} type 
  * @param {*} modal 
  */
-const AjaxPost = (data, url, type, modal = null, isObject = false, refresh = false, htmlRefreshOne = null, htmlRefreshTwo = null) => {
+const AjaxPost = (data, url, type, modal = null, isObject = false) => {
 
     let formData = data;
 
@@ -81,15 +81,6 @@ const AjaxPost = (data, url, type, modal = null, isObject = false, refresh = fal
                 MensajeAlertaBasico(data.msg, 'success');
                 if (modal) {
                     closeModal(modal);
-                }
-
-                if(refresh){
-                    setInterval(() => {
-                        htmlRefreshOne;
-                    }, 500);
-                    setInterval(() => {
-                        htmlRefreshTwo;
-                    }, 600);
                 }
                 return;
             }

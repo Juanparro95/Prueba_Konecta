@@ -80,5 +80,12 @@ const registrar_producto = (id) => {
    data.append('id', id);
    
 
-   AjaxPost(data, saveShopping, postType, null, true, true, printShoppings(), printProducts());
+   AjaxPost(data, saveShopping, postType, null, true);
+    setTimeout(() => {
+        printProducts();
+    }, 1000);
+    setTimeout(() => {
+        printShoppings();
+    }, 1600);
+
 }

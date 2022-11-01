@@ -33,3 +33,4 @@
 [IMPORT] 31-10-2022 22:34:07 - Hubo un error al querer ingresar a la ruta: http://localhost/PruebaPHP/assets/plugins/waitme/waitMe.min.js revisar de maneja urgente el problema
 [IMPORT] 31-10-2022 22:58:55 - Hubo un error al querer ingresar a la ruta: http://localhost/PruebaPHP/Roboto-Regular.ttf revisar de maneja urgente el problema
 [IMPORT] 01-11-2022 02:52:46 - Hubo un error al querer ingresar a la ruta: http://localhost/PruebaPHP/product/shopping revisar de maneja urgente el problema
+[ERROR] 01-11-2022 05:28:13 - Error al conectarse a la base de datos: Mensaje (SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO))

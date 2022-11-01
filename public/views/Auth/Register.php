@@ -59,17 +59,6 @@ use ParroFramework\Functions\Funciones;
         </div>
       </form>
 
-      <div class="social-auth-links text-center">
-        <a href="#" class="btn btn-block btn-primary">
-          <i class="fab fa-facebook mr-2"></i>
-          Registrate usando Facebook
-        </a>
-        <a href="#" class="btn btn-block btn-danger">
-          <i class="fab fa-google-plus mr-2"></i>
-          Registrate usando Google
-        </a>
-      </div>
-
       <a href="Auth" class="text-center">Ya tengo una cuenta</a>
     </div>
     <!-- /.form-box -->
