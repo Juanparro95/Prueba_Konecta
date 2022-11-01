@@ -24,8 +24,8 @@ Parro Framework, es un framework basado en PHP.
 
 ## Autor
 
-Juan David Parroquiano Vargas.
-Ingeniero de Software
+- Juan David Parroquiano Vargas.
+- Ingeniero de Software
 
 
 ## License
