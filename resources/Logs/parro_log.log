@@ -1,0 +1,35 @@
+[IMPORT] 31-10-2022 19:23:17 - Hubo un error al querer ingresar a la ruta: http://localhost/PruebaPHP/dashboard revisar de maneja urgente el problema
+[DEBUG] 31-10-2022 19:55:48 - Error al traer el menú dinámico en ParroSession.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as p
+                                      INNER JOIN  as up ON up.permission_i' at line 2
+[IMPORT] 31-10-2022 19:55:48 - Hubo un error al querer ingresar a la ruta: http://localhost/PruebaPHP/assets/images/company/logo.png revisar de maneja urgente el problema
+[DEBUG] 31-10-2022 19:57:27 - Error al traer el menú dinámico en ParroSession.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as p
+                                      INNER JOIN  as up ON up.permission_i' at line 2
+[IMPORT] 31-10-2022 19:57:27 - Hubo un error al querer ingresar a la ruta: http://localhost/PruebaPHP/assets/images/company/logo.png revisar de maneja urgente el problema
+[DEBUG] 31-10-2022 19:58:53 - Error al traer el menú dinámico en ParroSession.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as p
+                                      INNER JOIN  as up ON up.permission_i' at line 2
+[DEBUG] 31-10-2022 19:59:41 - Error al traer el menú dinámico en ParroSession.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as p
+                                      INNER JOIN  as up ON up.permission_i' at line 2
+[DEBUG] 31-10-2022 20:00:22 - Error al traer el menú dinámico en ParroSession.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as p
+                                      INNER JOIN  as up ON up.permission_i' at line 2
+[DEBUG] 31-10-2022 20:00:33 - Error al traer el menú dinámico en ParroSession.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as p
+                                      INNER JOIN  as up ON up.permission_i' at line 2
+[DEBUG] 31-10-2022 20:00:44 - Error al traer el menú dinámico en ParroSession.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as p
+                                      INNER JOIN  as up ON up.permission_i' at line 2
+[DEBUG] 31-10-2022 20:00:51 - Error al traer el menú dinámico en ParroSession.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as p
+                                      INNER JOIN  as up ON up.permission_i' at line 2
+[DEBUG] 31-10-2022 20:00:58 - Error al traer el menú dinámico en ParroSession.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as p
+                                      INNER JOIN  as up ON up.permission_i' at line 2
+[DEBUG] 31-10-2022 20:01:38 - Error al traer el menú dinámico en ParroSession.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as p
+                                      INNER JOIN  as up ON up.permission_i' at line 2
+[IMPORT] 31-10-2022 20:05:46 - Hubo un error al querer ingresar a la ruta: http://localhost/PruebaPHP/Roboto-Regular.ttf revisar de maneja urgente el problema
+[IMPORT] 31-10-2022 20:19:59 - Hubo un error al querer ingresar a la ruta: http://localhost/PruebaPHP/product revisar de maneja urgente el problema
+[IMPORT] 31-10-2022 20:20:46 - Hubo un error al querer ingresar a la ruta: http://localhost/PruebaPHP/product revisar de maneja urgente el problema
+[IMPORT] 31-10-2022 20:21:32 - Hubo un error al querer ingresar a la ruta: http://localhost/PruebaPHP/product revisar de maneja urgente el problema
+[IMPORT] 31-10-2022 20:22:35 - Hubo un error al querer ingresar a la ruta: http://localhost/PruebaPHP/product revisar de maneja urgente el problema
+[IMPORT] 31-10-2022 20:46:49 - Hubo un error al querer ingresar a la ruta: http://localhost/PruebaPHP/assets/images/undraw_empty.png revisar de maneja urgente el problema
+[IMPORT] 31-10-2022 20:47:17 - Hubo un error al querer ingresar a la ruta: http://localhost/PruebaPHP/assets/images/undraw_empty.png revisar de maneja urgente el problema
+[IMPORT] 31-10-2022 22:26:53 - Hubo un error al querer ingresar a la ruta: http://localhost/PruebaPHP/assets/plugins/waitme/waitMe.min.js revisar de maneja urgente el problema
+[IMPORT] 31-10-2022 22:32:38 - Hubo un error al querer ingresar a la ruta: http://localhost/PruebaPHP/assets/plugins/waitme/waitMe.min.js revisar de maneja urgente el problema
+[IMPORT] 31-10-2022 22:34:07 - Hubo un error al querer ingresar a la ruta: http://localhost/PruebaPHP/assets/plugins/waitme/waitMe.min.js revisar de maneja urgente el problema
+[IMPORT] 31-10-2022 22:58:55 - Hubo un error al querer ingresar a la ruta: http://localhost/PruebaPHP/Roboto-Regular.ttf revisar de maneja urgente el problema
+[IMPORT] 01-11-2022 02:52:46 - Hubo un error al querer ingresar a la ruta: http://localhost/PruebaPHP/product/shopping revisar de maneja urgente el problema

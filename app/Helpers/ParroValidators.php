@@ -1,0 +1,21 @@
+<?php
+
+use ParroFramework\Configs\Csrf;
+use ParroFramework\Configs\Flasher;
+use ParroFramework\Configs\Redirect;
+use ParroFramework\Functions\Funciones;
+
+/**
+ * !Función para validar los campos obligatorios y la seguridad CSRF.
+ *
+ * @param [type] $dataInformation
+ * @return void true or false
+ */
+function validateCsrf($dataInformation)
+{
+    if (!Csrf::validate($_POST['csrf']) || !Funciones::check_posted_data($dataInformation, $_POST)) {
+        return false;
+    }
+
+    return true;
+}
