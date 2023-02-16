@@ -1,8 +1,4 @@
 <?php
-namespace ParroFramework\Configs;
-
-use ParroFramework\Configs\Model;
-use ParroFramework\Functions\Funciones;
 
 class PaginationHandler extends Model
 {

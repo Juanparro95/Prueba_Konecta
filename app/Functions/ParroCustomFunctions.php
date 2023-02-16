@@ -1,7 +1,5 @@
 <?php
 
-namespace ParroFramework\Functions;
-
 class Custom
 {
     /**

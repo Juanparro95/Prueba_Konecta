@@ -1,8 +1,5 @@
 <?php 
 
-namespace ParroFramework\Configs;
-
-
 class Redirect
 {
   private $location;

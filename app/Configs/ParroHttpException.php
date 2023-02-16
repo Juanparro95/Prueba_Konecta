@@ -1,8 +1,5 @@
 <?php 
 
-namespace ParroFramework\Configs;
-use Exception;
-
 /**
  * Handler para excepciones de la clase ParroHttp
  * 

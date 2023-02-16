@@ -1,7 +1,5 @@
 <?php 
 
-namespace ParroFramework\Configs;
-
 /**
  * Clase encargada de autocargar todos los archivos de forma dinámica
  */

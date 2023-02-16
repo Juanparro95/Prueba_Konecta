@@ -1,9 +1,5 @@
 <?php 
 
-namespace ParroFramework\Configs;
-
-use Auth;
-
 class Controller {
 
   function __construct()

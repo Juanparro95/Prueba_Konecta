@@ -1,12 +1,5 @@
 <?php
 
-namespace ParroFramework\Configs;
-
-use Exception;
-use ParroFramework\Functions\Funciones;
-use PDO;
-use PDOException;
-
 class Model extends Database
 {
 

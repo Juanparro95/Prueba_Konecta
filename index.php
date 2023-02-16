@@ -1,7 +1,6 @@
 <?php 
 
 require 'app/Configs/Parro.php';
-use ParroFramework\Configs\Parro;
 
 Parro::init_composer();
 

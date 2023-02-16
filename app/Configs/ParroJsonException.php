@@ -1,9 +1,5 @@
 <?php 
 
-namespace ParroFramework\Configs;
-
-use Exception;
-
 /**
  * Handler para excepciones de elementos Json
  * 

@@ -1,13 +1,5 @@
 <?php 
 
-namespace ParroFramework\Configs;
-
-use Exception;
-use ParroFramework\Functions\Funciones;
-use ParroFramework\Helpers\Helper;
-use PDO;
-use PDOException;
-
 class Database
 {
   private $link = null;

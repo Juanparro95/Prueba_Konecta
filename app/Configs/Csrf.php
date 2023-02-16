@@ -1,7 +1,5 @@
 <?php 
 
-namespace ParroFramework\Configs;
-
 /**
  * ! Clase encargada en crear el token csrf de seguridad
  */

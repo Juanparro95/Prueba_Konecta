@@ -1,9 +1,5 @@
 <?php
 
-namespace ParroFramework\Configs;
-
-use Exception;
-
 class TableSchema
 {
     private $sql        = null;

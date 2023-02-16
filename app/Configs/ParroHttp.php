@@ -1,9 +1,5 @@
 <?php
 
-namespace ParroFramework\Configs;
-
-use ParroFramework\Functions\Funciones;
-
 /**
  * @since 1.1.4
  * 

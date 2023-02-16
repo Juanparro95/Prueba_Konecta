@@ -1,10 +1,5 @@
 <?php
 
-namespace ParroFramework\Configs;
-
-use Exception;
-use ParroFramework\Functions\Funciones;
-
 class ParroSession
 {
 

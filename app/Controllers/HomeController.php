@@ -1,10 +1,5 @@
 <?php
 
-use ParroFramework\Configs\Controller;
-use ParroFramework\Configs\Flasher;
-use ParroFramework\Configs\Redirect;
-use ParroFramework\Configs\View;
-
 class HomeController extends Controller
 {
   function __construct()

@@ -1,9 +1,5 @@
 <?php 
 
-namespace ParroFramework\Configs;
-
-use Auth;
-
 /**
  * Contiene información de usuario
  */ 

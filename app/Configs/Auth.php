@@ -1,7 +1,5 @@
 <?php
 
-use ParroFramework\Functions\Funciones;
-
 /**
  * Clase para crear sesiones seguras de usuarios
  */

@@ -1,12 +1,5 @@
 <?php
 
-namespace ParroFramework\Configs;
-
-use Auth;
-use ParroFramework\Functions\Funciones;
-use Exception;
-use ReflectionMethod;
-
 /**
  * ! Clase Principal -> Configuración por defecto del Framework
  */

@@ -1,9 +1,5 @@
 <?php
 
-namespace ParroFramework\Functions;
-
-use Exception;
-
 class Funciones
 {
     /**

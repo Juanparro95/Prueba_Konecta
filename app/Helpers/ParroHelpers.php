@@ -1,7 +1,5 @@
 <?php
 
-namespace ParroFramework\Helpers;
-
 /**
  *  ! Clase Helpers, contiene constantes iniciales del sistema para que funcione correctamente.
  */

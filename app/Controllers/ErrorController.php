@@ -1,9 +1,5 @@
 <?php
 
-use ParroFramework\Configs\Controller;
-use ParroFramework\Configs\View;
-use ParroFramework\Functions\Funciones;
-
 class ErrorController extends Controller {
   function __construct()
   {
