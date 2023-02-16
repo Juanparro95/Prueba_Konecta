@@ -1,8 +1,5 @@
 <?php
 
-use ParroFramework\Configs\Model;
-use ParroFramework\Configs\PaginationHandler;
-
 class Shopping extends Model
 {
     public static function getAll()

@@ -1,8 +1,5 @@
 <?php
 
-use ParroFramework\Configs\Model;
-use ParroFramework\Configs\PaginationHandler;
-
 class Product extends Model
 {
     /**
