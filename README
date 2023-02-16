@@ -13,9 +13,9 @@ Parro Framework, es un framework basado en PHP.
 1. Clona el repositorio en un servidor web local: 
 - Ejemplo: Xampp (C:/xampp/htdocs/parro_framework)
 
-2. Una vez adentro, ingresa al archivo env
-- La variable ROUTE debes ingresar el nombre de la carpeta que contiene el proyecto.
-- Ejemplo: si el proyecto está en la ruta C:/xampp/htdocs/konecta, la variable deberia ser ROUTE=konecta.
+2. Una vez adentro, haz una copia del archivo .env.example y llamalo .env.
+- La variable ROUTE debes ingresar el nombre de la carpeta que contiene el proyecto. Ejemplo: si el proyecto está en la ruta C:/xampp/htdocs/konecta, la variable deberia ser ROUTE=konecta.
+    (Esta variable la encuentras en el archivo .env)
 
 3. Revisa la conexión a la base de datos.
 4. Exporta el archivo file.sql que se encuentra en la ruta raiz.
